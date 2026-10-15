@@ -1,0 +1,7 @@
+psutil
+requests
+pyserial
+winsdk
+unidecode
+
+//   py -3.12 pc_agent.py --port COM18
